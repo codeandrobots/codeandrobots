@@ -1,4 +1,4 @@
-# [Code & Robots Mobile App Robotic Kit](http://codeandrobots.com) ⚡
+# [Code & Robots Mobile App Robotics Kit](http://codeandrobots.com) ⚡
 
 The Code & Robots Open Source mobile app robotics kit comes with 10 beautifully designed screens and a React Native starter project to help designers, developers and makers build robotics apps.
 
@@ -14,7 +14,7 @@ Get started with the React Native starter project and customize it as you go or 
 
 The toolkit has been built with modern tools and approaches.
 
-Coming Soon!
+**Coming Soon!**
 
 ## For Makers
 
