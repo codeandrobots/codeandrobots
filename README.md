@@ -6,7 +6,7 @@ The Code & Robots Open Source mobile app robotics kit comes with 10 beautifully 
 
 10 beautiful screens to quickly get you started designing your robotics app.
 
-[Download Here](https://github.com/codeandrobots/codeandrobots-kit/raw/master/design/Code%20%26%20Robots.fig)
+[Get The Design For Free](https://www.figma.com/file/glet2oR8FeFN12Y60CxeSOPi/Code-and-Robots/duplicate)
 
 ## For Developers
 
