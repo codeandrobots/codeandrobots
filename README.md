@@ -14,7 +14,8 @@ Get started with the React Native starter project and customize it as you go or 
 
 The toolkit has been built with modern tools and approaches.
 
-The React Native project is starting to take shape but is still in Beta. The code is **[already available on Github](https://github.com/codeandrobots/codeandrobots-app)** so keep an eye on its development and feel free to fork away :)
+The React Native project is starting to take shape but is still in Beta.
+The code is **[already available on Github](https://github.com/codeandrobots/codeandrobots-app)** so keep an eye on its development and feel free to fork away :)
 
 ## For Makers
 
