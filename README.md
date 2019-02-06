@@ -2,6 +2,8 @@
 
 The Code & Robots Open Source mobile app robotics kit comes with 10 beautifully designed screens and a React Native starter project to help designers, developers and makers build robotics apps.
 
+The Beta version of the app is live on the [Google Play Store](https://play.google.com/store/apps/details?id=com.codeandrobots.beta&ah=fmxnGH-WXpRTFOPNCggRzlARIIk).
+
 ## For Designers
 
 10 beautiful screens to quickly get you started designing your robotics app.
