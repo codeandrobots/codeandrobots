@@ -1,7 +1,7 @@
 
 # What's New
 
-## February 3, 2019
+## February 6, 2019
 
 The initial code base for the React Native mobile app is now on [Github](https://github.com/codeandrobots/codeandrobots-app).
 
