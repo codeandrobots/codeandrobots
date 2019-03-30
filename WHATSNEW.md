@@ -5,6 +5,21 @@ The latest code is availble on [Github](https://github.com/codeandrobots/codeand
 
 If you have questions or there's anything else we can help you with, please do [get in touch](mailto:codeandrobotshq@gmail.com).
 
+## March 30, 2019
+
+The Drive and Code Lab screens are ready and have been taken on a test drive using the Code & Robots rover simulator:
+ - Drive screen with a joystick for driving the rover
+ - Code Lab where you can drag & drop code and instruct the rover where to go
+
+The Beta version 1.0.3 of the app has been released to the [Google Play Store](https://play.google.com/store/apps/details?id=com.codeandrobots.beta&ah=fmxnGH-WXpRTFOPNCggRzlARIIk).
+
+Here are the videos of the mobile app driving the Code & Robots rover simulator
+ - [Code & Robots Driving the Rover Simulator with a 🕹️](https://www.instagram.com/p/BvJeNdNi7Ij)
+ - [The Code & Robots Code Lab in action](https://www.instagram.com/p/BvmWQm6Ci4b)
+
+![Code&Robots Drive Screen](https://i.imgur.com/vK3Re3Pm.png)
+![Code&Robots Code Lab](https://i.imgur.com/3DGgdsPm.jpg)
+
 ## March 11, 2019
 
 Component and screen building for the React Native mobile app has progressed well:
