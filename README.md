@@ -2,7 +2,13 @@
 
 The Code & Robots Open Source mobile app robotics kit comes with 10 beautifully designed screens and a React Native starter project to help designers, developers and makers build robotics apps.
 
-The Beta version of the app is live on the [Google Play Store](https://play.google.com/store/apps/details?id=com.codeandrobots.beta&ah=fmxnGH-WXpRTFOPNCggRzlARIIk).
+## Open Source
+
+Code & Robots is completly FREE under the [MIT license](LICENSE). You can even use it commercially!
+
+## Get It Now
+
+The Beta version of the app is live on the [Google Play Store](https://play.google.com/store/apps/details?id=com.codeandrobots.beta&ah=fmxnGH-WXpRTFOPNCggRzlARIIk) and is coming soon to the Apple App Store.
 
 ## For Designers
 
@@ -25,7 +31,3 @@ Materialize your robotics mobile app fast! Like, really fast.
 Code & Robots can be easily customized with its cutting-edge components and features.
 
 However, if you feel you need affordable & professional assistance with your robotics project then contact us at [codeandrobotshq@gmail.com](mailto:codeandrobotshq@gmail.com).
-
-## Open Source
-
-Code & Robots is completly FREE under the [MIT license](LICENSE). You can even use it commercially!
