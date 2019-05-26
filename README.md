@@ -4,7 +4,7 @@ The Code & Robots Open Source mobile app robotics kit comes with 10 beautifully 
 
 ## Open Source
 
-Code & Robots is completly FREE under the [MIT license](LICENSE). You can even use it commercially!
+Code & Robots is completly FREE under the [MIT license](LICENSE). You can even use it commercially and we welcome all contributions, see our [contributing guide](https://github.com/codeandrobots/codeandrobots-app/blob/master/CONTRIBUTING.md) to get started.
 
 ## Get It Now
 
