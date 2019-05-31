@@ -1,9 +1,24 @@
 
 # What's New
 
-The latest code is availble on [Github](https://github.com/codeandrobots/codeandrobots-app) and the Beta version of the app is on the [Google Play Store](https://play.google.com/store/apps/details?id=com.codeandrobots.beta&ah=fmxnGH-WXpRTFOPNCggRzlARIIk).
+ - Code is available on [Github](https://github.com/codeandrobots/codeandrobots-app)
+ - Download the Android app on the [Google Play Store](https://play.google.com/store/apps/details?id=com.codeandrobots.beta&ah=fmxnGH-WXpRTFOPNCggRzlARIIk)
+ - Download the iOS app on the [App Store](https://itunes.apple.com/us/app/code-robots/id1462402633?mt=8)
+ - [Code&Robots Project Roadmap](https://github.com/orgs/codeandrobots/projects/1)
 
 If you have questions or there's anything else we can help you with, please do [get in touch](mailto:codeandrobotshq@gmail.com).
+
+## May 31, 2019
+
+A lot of behind the scenes work has been happening:
+ - Setup the [Code&Robots Project Roadmap](https://github.com/orgs/codeandrobots/projects/1)
+ - Support Bluetooth BLE, tested with the Bluetooth HM10 module
+ - Deploy the iOS app to the [App Store](https://itunes.apple.com/us/app/code-robots/id1462402633?mt=8) :tada:
+ - Collaborate with the OttoDIY team to get started on the [OttoDIY app](https://github.com/OttoDIY/OttoDIYApp)
+ - Start work in supporting the [Nybble cat robot](https://www.indiegogo.com/projects/nybble-world-s-cutest-open-source-robotic-kitten/x/10837309#/)
+
+Here's a video of testing the app with Nybble :smiley_cat:
+ - [Testing Nybble](https://www.instagram.com/p/ByIS8shCcBG)
 
 ## March 30, 2019
 
