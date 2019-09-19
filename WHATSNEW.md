@@ -8,6 +8,20 @@
 
 If you have questions or there's anything else we can help you with, please do [get in touch](mailto:codeandrobotshq@gmail.com).
 
+## Sep 19, 2019
+
+It's been a while since the last update but things have progressed over the Summer:
+ - [Design v0.1.6 update](https://www.figma.com/file/glet2oR8FeFN12Y60CxeSOPi/Code-and-Robots?node-id=698%3A0)
+ - [Support 64 bit devices](https://github.com/codeandrobots/codeandrobots-app/issues/12)
+ - [Updated Player screen](https://github.com/codeandrobots/codeandrobots-app/issues/17)
+ - [New connect screen](https://github.com/codeandrobots/codeandrobots-app/issues/28)
+ - [Support the Nybble robot](https://github.com/codeandrobots/codeandrobots/issues/2)
+ - [Support Otto skills (e.g. moonwalk, tiptoe, etc)](https://www.instagram.com/p/B2lr-jQjgVq)
+ - Collaborate with the OttoDIY team to deploy the [OttoDIY app](https://github.com/OttoDIY/OttoDIYApp) to the Google play store, beta coming soon!
+
+Here's a video showcasing Nybble's skills :smiley_cat:
+ - [Nybble Skills Demo](https://www.instagram.com/p/B2iu-xugpU1)
+
 ## May 31, 2019
 
 A lot of behind the scenes work has been happening:
