@@ -8,6 +8,18 @@
 
 If you have questions or there's anything else we can help you with, please do [get in touch](mailto:codeandrobotshq@gmail.com).
 
+## Nov 16, 2019
+
+Collaboration with the [OttoDIY team](https://www.ottodiy.com/) has come to fruition this month with the release of the OttoDIY Android app on the [Google Play Store](https://play.google.com/store/apps/details?id=com.ottodiy) 🎉
+
+The Code&Robots app has also progressed with the Code Lab screen redesign and integration with the Otto, Nybble and Simulator robots.
+
+The Beta version 1.0.11 of the Android app has been released to the [Google Play Store](https://play.google.com/store/apps/details?id=com.codeandrobots.beta&ah=fmxnGH-WXpRTFOPNCggRzlARIIk) and version 1.0.7 of the iOS app has been released to the [App Store](https://itunes.apple.com/us/app/code-robots/id1462402633?mt=8).
+
+[Watch a demo of the code lab running the Otto robot](https://www.youtube.com/watch?v=WRjgLJMavEE).
+
+![Code&Robots Code Lab Screen](https://i.imgur.com/q8rsqSPm.jpg)
+
 ## Sep 19, 2019
 
 It's been a while since the last update but things have progressed over the Summer:
