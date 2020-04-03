@@ -8,6 +8,30 @@
 
 If you have questions or there's anything else we can help you with, please do [get in touch](mailto:codeandrobotshq@gmail.com).
 
+## Apr 3, 2020
+
+A few exciting updates to share with you, let's break it down.
+
+### New landscape player mode
+
+A first step has been made to allow the Code&Robots app to be used in landscape mode to let the user control the robot with both hands, which feels quite nice. The next step is to build a MVP with a second joystick to control another part of a robot, e.g move and tilt on a drone!
+
+The Beta version 1.0.13 of the Android app has been released to the [Google Play Store](https://play.google.com/store/apps/details?id=com.codeandrobots.beta&ah=fmxnGH-WXpRTFOPNCggRzlARIIk) and version 1.0.9 of the iOS app has been released to the [App Store](https://itunes.apple.com/us/app/code-robots/id1462402633?mt=8).
+
+[Watch a demo of playing in landscape mode with the OttoDIY robot](https://www.instagram.com/p/B-gmbGDDkIR).
+
+![Code&Robots Landscape Screen](https://i.imgur.com/IR9V7Eem.jpg)
+
+### Otto DIY
+
+As ever, we're really enjoying working together with the [OttoDIY](https://www.ottodiy.com) team to help them with the OttoDIY app.
+
+With the help of [@cparrapa](https://github.com/cparrapa) (OttoDIY founder), the OttoDIY app is now available to download on the [App Store](https://apps.apple.com/us/app/otto-diy/id1495304583?ls=1&fbclid=IwAR0l4b-3Jhlfh-e-ZI5sKt8DHFl9NV0Qg95giCb0m9x1AJ3L5reBYOVHAXk).
+
+Both the [Android OttoDIY app](https://play.google.com/store/apps/details?id=com.ottodiy) and [iOS OttoDIY app](https://apps.apple.com/us/app/otto-diy/id1495304583?ls=1&fbclid=IwAR0l4b-3Jhlfh-e-ZI5sKt8DHFl9NV0Qg95giCb0m9x1AJ3L5reBYOVHAXk) now also include the code lab feature.
+
+The code is open source & can be found in [github](https://github.com/OttoDIY/OttoDIYApp). Thanks [@cparrapa](https://github.com/cparrapa)!
+
 ## Nov 16, 2019
 
 Collaboration with the [OttoDIY team](https://www.ottodiy.com/) has come to fruition this month with the release of the OttoDIY Android app on the [Google Play Store](https://play.google.com/store/apps/details?id=com.ottodiy) 🎉
