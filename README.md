@@ -1,4 +1,4 @@
-# [Code & Robots Mobile App Robotics Kit](http://codeandrobots.com) ⚡
+# [Code & Robots - Open Source robot app + DIY kit](http://codeandrobots.com) ⚡
 
 ## The Code & Robots Open Source project
 
@@ -20,9 +20,7 @@ Code & Robots is completly FREE under the [MIT license](LICENSE). You can even u
 
 The code is available on [Github](https://github.com/codeandrobots/codeandrobots-app)
 
-# Roadmap
-
-- [Code&Robots Project Roadmap](https://github.com/orgs/codeandrobots/projects/1)
+The [Code&Robots Project Roadmap](https://github.com/orgs/codeandrobots/projects/1) keeps track of upcoming features & tasks.
 
 ## For Designers
 
@@ -32,11 +30,9 @@ The code is available on [Github](https://github.com/codeandrobots/codeandrobots
 
 ## For Developers
 
-Get started with the React Native starter project and customize it as you go or cherry pick the right components for your existing projects.
+Get started with the React Native project and customize it as you go or cherry pick the right components for your existing projects.
 
-The React Native project is starting to take shape but is still in Beta.
-
-The code is **[already available on Github](https://github.com/codeandrobots/codeandrobots-app)** so keep an eye on its development and feel free to fork away :)
+The code is [available on Github](https://github.com/codeandrobots/codeandrobots-app) ready to be forked :)
 
 ## For Makers
 
@@ -44,4 +40,4 @@ Materialize your robotics mobile app fast! Like, really fast.
 
 Code & Robots can be easily customized with its cutting-edge components and features.
 
-However, if you feel you need affordable & professional assistance with your robotics project then contact us at [codeandrobotshq@gmail.com](mailto:codeandrobotshq@gmail.com).
+However, if you feel you need affordable & professional assistance with your own robot project then please contact us at [codeandrobotshq@gmail.com](mailto:codeandrobotshq@gmail.com).
